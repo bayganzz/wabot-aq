@@ -32,5 +32,6 @@ Bonus: ${poin} XP
 handler.help = ['asahotak']
 handler.tags = ['game']
 handler.command = /^asahotak/i
+handler.group = true
 
 module.exports = handler
